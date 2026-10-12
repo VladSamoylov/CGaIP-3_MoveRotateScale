@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CGaIP-3_MoveRotateScale/CGaIP-3_MoveRotateScale.vcxproj" Id="3c34bf12-7e9e-4e41-95e6-2b607572808f" />
+</Solution>
